@@ -1,0 +1,22 @@
+/* .bg-img1 {
+  padding-top: 50%;
+  background-color: #000;
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/effa1c25-5a9e-4157-8c85-6ee2130b5dda/dfnrtlb-a0ce7e9a-84cf-4454-ad5a-8976d02e4eaf.jpg/v1/fill/w_1920,h_1280,q_75,strp/fantasy_world_by_dedisun_dfnrtlb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZmExYzI1LTVhOWUtNDE1Ny04Yzg1LTZlZTIxMzBiNWRkYVwvZGZucnRsYi1hMGNlN2U5YS04NGNmLTQ0NTQtYWQ1YS04OTc2ZDAyZTRlYWYuanBnIiwiaGVpZ2h0IjoiPD0xMjgwIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZWZmYTFjMjUtNWE5ZS00MTU3LThjODUtNmVlMjEzMGI1ZGRhXC9kZWRpc3VuLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.uL_dMuYw-IGC1uyPbQ_o2HPhWRZv7Zsocel9uzI2yBE)
+    top center / cover no-repeat;
+}
+.bg-img2 {
+  padding-top: 50%;
+  background: url(https://as2.ftcdn.net/v2/jpg/05/68/78/41/1000_F_568784145_sa0pdYwMHTBoDR0y0jZUPZgudEJlwCUO.jpg)
+    top center / cover no-repeat;
+}
+.bg-img3 {
+  padding-top: 50%;
+  background: url(https://img.freepik.com/premium-photo/fantasy-world-enchanted-fairy-tale-background-colorful-space-digital-art-creative-unique-planet-generative-ai_742252-11831.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698019200&semt=ais)
+    top center / cover no-repeat;
+} */
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
